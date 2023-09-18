@@ -1,11 +1,12 @@
-<nav class="flex w-full h-14 py-3.5 justify-end items-center">
-
+<nav class="flex h-14 w-full items-center justify-end py-3.5">
   <div />
 
-  <div class="px-6 py-2 bg-emerald-100 rounded-full justify-center items-center gap-1 flex inset-0">
-    <div class="w-2.5 h-2.5 bg-green-600 rounded-full"></div>
-    <div class="text-green-600 font-medium leading-none font-['Inter']">available</div>
+  <div class="inset-0 flex items-center justify-center gap-1 rounded-full bg-emerald-100 px-6 py-2">
+    <div class="h-2.5 w-2.5 rounded-full bg-green-600"></div>
+    <div class="font-['Inter'] font-medium leading-none text-green-600">available</div>
   </div>
 
-  <a href="mailto:allysonnomuraga@gmail.com" class="text-black font-medium underline leading-normal">hello@talialy.design</a>
+  <a href="mailto:allysonnomuraga@gmail.com" class="font-medium leading-normal text-black underline"
+    >hello@talialy.design</a
+  >
 </nav>
